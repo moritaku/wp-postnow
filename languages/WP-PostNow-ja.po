@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-PostNow\n"
+"POT-Creation-Date: 2013-07-13 14:39+0900\n"
+"PO-Revision-Date: 2013-07-13 14:45+0900\n"
+"Last-Translator: Takuma Morikawa <takuma_m@duffytoy.com>\n"
+"Language-Team: \n"
+"Language: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-postnow-view.php:20
+msgid "Please enter only alphanumeric SenderAddress"
+msgstr "メール送信元アドレスは半角英数のみを入力して下さい"
+
+#: ../wp-postnow-view.php:29
+msgid "Is not in the correct format of the CC"
+msgstr "ccメールの形式が正しくありません"
+
+#: ../wp-postnow-view.php:121
+msgid "Save the settings"
+msgstr "設定を保存しました"
+
+#: ../wp-postnow-view.php:137
+msgid "WP-PostNow Settings"
+msgstr "WP-PostNow設定"
+
+#: ../wp-postnow-view.php:143
+msgid "Delivery terms of email alerts"
+msgstr "アラートメールの配信条件"
+
+#: ../wp-postnow-view.php:147
+msgid "1Week"
+msgstr "1週間"
+
+#: ../wp-postnow-view.php:148
+msgid "2Weeks"
+msgstr "2週間"
+
+#: ../wp-postnow-view.php:149
+msgid "1Month"
+msgstr "1ヶ月"
+
+#: ../wp-postnow-view.php:150
+msgid "2Months"
+msgstr "2ヶ月"
+
+#: ../wp-postnow-view.php:153
+msgid "Select the delivery terms of email alerts from last posted"
+msgstr "最新の投稿から何日経過すればアラートメールを送信するか選択して下さい"
+
+#: ../wp-postnow-view.php:159
+msgid "Check and Mail delivery interval"
+msgstr "最新投稿チェックとメール配信の間隔"
+
+#: ../wp-postnow-view.php:168
+msgid "Select the check and delivery interval"
+msgstr "最新投稿チェックとアラートメールの配信間隔を選択して下さい"
+
+#: ../wp-postnow-view.php:174
+msgid "Mail delivery time"
+msgstr "メール配信時間"
+
+#: ../wp-postnow-view.php:189
+msgid "Next scheduled : "
+msgstr "次回チェックスケジュール："
+
+#: ../wp-postnow-view.php:189
+msgid "(Once in the "
+msgstr "("
+
+#: ../wp-postnow-view.php:189
+msgid "day(s))"
+msgstr "日に1度チェック)"
+
+#: ../wp-postnow-view.php:191
+msgid "Select the delivery time of email alerts"
+msgstr "アラートメールの配信時間を選択して下さい"
+
+#: ../wp-postnow-view.php:196
+msgid "Set the FuturePosts"
+msgstr "予約投稿の設定"
+
+#: ../wp-postnow-view.php:199
+msgid "Include to check for FuturePosts"
+msgstr "予約投稿を査定対象に含む"
+
+#: ../wp-postnow-view.php:200
+msgid "Not included to check for FuturePosts"
+msgstr "予約投稿を査定対象に含まない"
+
+#: ../wp-postnow-view.php:202
+msgid "Select the setting of FuturePosts"
+msgstr "予約投稿の設定を選択して下さい"
+
+#: ../wp-postnow-view.php:203
+msgid ""
+"(Please note alert mail will not be sent if FuturePosts to be included in "
+"the check for FuturePosts until published)"
+msgstr ""
+"(予約投稿を査定対象に含む場合、予約投稿が公開されるまでアラートメールが送信さ"
+"れないのでご注意下さい) "
+
+#: ../wp-postnow-view.php:208
+msgid "Send mail user"
+msgstr "送信先ユーザー"
+
+#: ../wp-postnow-view.php:217
+msgid "Select the SendMailUser of e-mail alert"
+msgstr "アラートメールの送信先ユーザーを選択して下さい"
+
+#: ../wp-postnow-view.php:222
+msgid "Carbon copy mail"
+msgstr "CCメール送信先"
+
+#: ../wp-postnow-view.php:226
+msgid "Enter the CC address"
+msgstr "CCメール送信先を入力して下さい"
+
+#: ../wp-postnow-view.php:231
+msgid "Mail sender display name"
+msgstr "メール送信元表示名"
+
+#: ../wp-postnow-view.php:235
+msgid "Enter the mail sender display name"
+msgstr "メール送信元表示名を入力して下さい"
+
+#: ../wp-postnow-view.php:240
+msgid "Sender address"
+msgstr "メール送信元アドレス"
+
+#: ../wp-postnow-view.php:244
+msgid "Enter the alphanumeric SenderAddress"
+msgstr ""
+"メール送信元アドレスを英数字で入力して下さい（大文字は小文字に変換されます）"
+
+#: ../wp-postnow-view.php:249
+msgid "Subject"
+msgstr "メールのタイトル"
+
+#: ../wp-postnow-view.php:253
+msgid "Enter the subject"
+msgstr "メッセージの「タイトル」を入力してください"
+
+#: ../wp-postnow-view.php:258
+msgid "Body"
+msgstr "メールの本文"
+
+#: ../wp-postnow-view.php:262
+msgid "Enter the mail body"
+msgstr "メッセージの「本文」を入力してください"
+
+#: ../wp-postnow-view.php:268
+msgid "SavingChanges"
+msgstr "変更を保存"
+
+#: ../wp-postnow.php:37
+msgid "twodays"
+msgstr ""
+
+#: ../wp-postnow.php:41
+msgid "threedays"
+msgstr ""
+
+#: ../wp-postnow.php:45
+msgid "fourdays"
+msgstr ""
+
+#: ../wp-postnow.php:49
+msgid "fivedays"
+msgstr ""
+
+#: ../wp-postnow.php:53
+msgid "sixdays"
+msgstr ""
+
+#: ../wp-postnow.php:57
+msgid "weekly"
+msgstr ""
+
+#: ../wp-postnow.php:74
+msgid " post is stagnated."
+msgstr "の更新が滞っています。"
+
+#: ../wp-postnow.php:75
+msgid " Let's post the article right now"
+msgstr "の更新が滞っているようです。記事を投稿しましょう"
+
+#: ../wp-postnow.php:139
+msgid " You have not posted yet!!"
+msgstr "の記事がまだ1つも書けていません！"
+
+#: ../wp-postnow.php:140
+msgid " You have not posted yet!! Visitor is waiting for your post!"
+msgstr "の記事がまだ書かれていません。サイト訪問者は待っています！"
+
+#~ msgid ""
+#~ "WP PostNow can encourage posts in the automated email on a regular "
+#~ "schedule."
+#~ msgstr ""
+#~ "WP PostNowは最終投稿日をチェックし、一定期間投稿がない場合、自動送信メール"
+#~ "にて投稿を促すプラグインです。"

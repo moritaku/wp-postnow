@@ -1,0 +1,199 @@
+# Copyright (C) 2013 WP PostNow
+# This file is distributed under the same license as the WP PostNow package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-PostNow\n"
+"POT-Creation-Date: 2013-07-13 14:42+0900\n"
+"PO-Revision-Date: 2013-07-13 14:42+0900\n"
+"Last-Translator: Takuma Morikawa <takuma_m@duffytoy.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-postnow-view.php:20
+msgid "Please enter only alphanumeric SenderAddress"
+msgstr ""
+
+#: ../wp-postnow-view.php:29
+msgid "Is not in the correct format of the CC"
+msgstr ""
+
+#: ../wp-postnow-view.php:121
+msgid "Save the settings"
+msgstr ""
+
+#: ../wp-postnow-view.php:137
+msgid "WP-PostNow Settings"
+msgstr ""
+
+#: ../wp-postnow-view.php:143
+msgid "Delivery terms of email alerts"
+msgstr ""
+
+#: ../wp-postnow-view.php:147
+msgid "1Week"
+msgstr ""
+
+#: ../wp-postnow-view.php:148
+msgid "2Weeks"
+msgstr ""
+
+#: ../wp-postnow-view.php:149
+msgid "1Month"
+msgstr ""
+
+#: ../wp-postnow-view.php:150
+msgid "2Months"
+msgstr ""
+
+#: ../wp-postnow-view.php:153
+msgid "Select the delivery terms of email alerts from last posted"
+msgstr ""
+
+#: ../wp-postnow-view.php:159
+msgid "Check and Mail delivery interval"
+msgstr ""
+
+#: ../wp-postnow-view.php:168
+msgid "Select the check and delivery interval"
+msgstr ""
+
+#: ../wp-postnow-view.php:174
+msgid "Mail delivery time"
+msgstr ""
+
+#: ../wp-postnow-view.php:189
+msgid "Next scheduled : "
+msgstr ""
+
+#: ../wp-postnow-view.php:189
+msgid "(Once in the "
+msgstr ""
+
+#: ../wp-postnow-view.php:189
+msgid "day(s))"
+msgstr ""
+
+#: ../wp-postnow-view.php:191
+msgid "Select the delivery time of email alerts"
+msgstr ""
+
+#: ../wp-postnow-view.php:196
+msgid "Set the FuturePosts"
+msgstr ""
+
+#: ../wp-postnow-view.php:199
+msgid "Include to check for FuturePosts"
+msgstr ""
+
+#: ../wp-postnow-view.php:200
+msgid "Not included to check for FuturePosts"
+msgstr ""
+
+#: ../wp-postnow-view.php:202
+msgid "Select the setting of FuturePosts"
+msgstr ""
+
+#: ../wp-postnow-view.php:203
+msgid ""
+"(Please note alert mail will not be sent if FuturePosts to be included in "
+"the check for FuturePosts until published)"
+msgstr ""
+
+#: ../wp-postnow-view.php:208
+msgid "Send mail user"
+msgstr ""
+
+#: ../wp-postnow-view.php:217
+msgid "Select the SendMailUser of e-mail alert"
+msgstr ""
+
+#: ../wp-postnow-view.php:222
+msgid "Carbon copy mail"
+msgstr ""
+
+#: ../wp-postnow-view.php:226
+msgid "Enter the CC address"
+msgstr ""
+
+#: ../wp-postnow-view.php:231
+msgid "Mail sender display name"
+msgstr ""
+
+#: ../wp-postnow-view.php:235
+msgid "Enter the mail sender display name"
+msgstr ""
+
+#: ../wp-postnow-view.php:240
+msgid "Sender address"
+msgstr ""
+
+#: ../wp-postnow-view.php:244
+msgid "Enter the alphanumeric SenderAddress"
+msgstr ""
+
+#: ../wp-postnow-view.php:249
+msgid "Subject"
+msgstr ""
+
+#: ../wp-postnow-view.php:253
+msgid "Enter the subject"
+msgstr ""
+
+#: ../wp-postnow-view.php:258
+msgid "Body"
+msgstr ""
+
+#: ../wp-postnow-view.php:262
+msgid "Enter the mail body"
+msgstr ""
+
+#: ../wp-postnow-view.php:268
+msgid "SavingChanges"
+msgstr ""
+
+#: ../wp-postnow.php:37
+msgid "twodays"
+msgstr ""
+
+#: ../wp-postnow.php:41
+msgid "threedays"
+msgstr ""
+
+#: ../wp-postnow.php:45
+msgid "fourdays"
+msgstr ""
+
+#: ../wp-postnow.php:49
+msgid "fivedays"
+msgstr ""
+
+#: ../wp-postnow.php:53
+msgid "sixdays"
+msgstr ""
+
+#: ../wp-postnow.php:57
+msgid "weekly"
+msgstr ""
+
+#: ../wp-postnow.php:74
+msgid " post is stagnated."
+msgstr ""
+
+#: ../wp-postnow.php:75
+msgid " Let's post the article right now"
+msgstr ""
+
+#: ../wp-postnow.php:139
+msgid " You have not posted yet!!"
+msgstr ""
+
+#: ../wp-postnow.php:140
+msgid " You have not posted yet!! Visitor is waiting for your post!"
+msgstr ""
